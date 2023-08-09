@@ -1,2 +1,1 @@
-# blogsite
-initialerror
+Ninjas
